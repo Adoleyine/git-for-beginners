@@ -1,4 +1,4 @@
 welcome to my project
 
-Author: Scooby
+Author: Scooby Adoleyine
 Twitter: @adoleyine 
